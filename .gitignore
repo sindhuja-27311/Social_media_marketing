@@ -1,0 +1,18 @@
+# Local Environment & Database
+.env
+db.sqlite3
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+# IDE Settings
+.vscode/
+.idea/
